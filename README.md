@@ -1,4 +1,4 @@
-# READ ME (I Dare You)
+# READ ME (... I DARE YOU!)
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
